@@ -60,7 +60,6 @@ Flask==3.1.0
 fpdf==1.7.2
 frozenlist==1.5.0
 fsspec==2024.10.0
-
 gevent==24.11.1
 gevent-websocket==0.10.1
 google-ai-generativelanguage==0.6.10
@@ -184,6 +183,7 @@ vine==5.1.0
 virtualenv==20.28.0
 watchdog==6.0.0
 wcwidth==0.2.13
+web3==6.15.1
 websocket-client==1.8.0
 websockets==14.1
 Werkzeug==3.1.3
